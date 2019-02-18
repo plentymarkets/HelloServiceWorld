@@ -1,0 +1,10 @@
+{
+    "name"              : "ServicePlugin",
+    "namespace"         : "HelloServiceWorld",
+    "type"              : "service",
+    "version"           : "1.0.0",
+    "pluginIcon"        : "icon_plugin_xs",
+    "description"       : "The description for your plugin",
+    "author"            : "plentymarkets GmbH",
+    "authorIcon"        : "icon-author-xs"
+}

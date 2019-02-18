@@ -1,0 +1,7 @@
+{
+    "marketplaceName"   : {"de":"Hello Service World","en":"Hello Service World"},
+    "price"             : 10.00,
+    "shortDescription"  : {"de":"German short description","en":"English short description"},
+    "categories"        : ["3888"],
+    "keywords"          : ["keyword 1", "keyword 2"]
+}
